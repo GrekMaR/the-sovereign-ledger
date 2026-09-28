@@ -1,0 +1,13 @@
+{
+  "persist": true,
+  "paths": [
+    "01-canon/*.md",
+    "02-outline/*.md",
+    "03-draft/*.md",
+    "04-export/*",
+    "loop/*.json",
+    "style/writing-style-guide.md",
+    "README.md"
+  ],
+  "expires_utc": "2099-01-01T00:00:00Z"
+}

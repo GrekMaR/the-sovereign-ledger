@@ -1,0 +1,9 @@
+{
+  "chapter_word_min": 2500,
+  "chapter_word_sweet_spot": 3500,
+  "chapter_word_max": 4500,
+  "novel_word_min": 100000,
+  "novel_word_default": 115000,
+  "novel_word_max": 140000,
+  "scene_score_pass_threshold": 75
+}

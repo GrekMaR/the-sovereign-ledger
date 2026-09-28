@@ -1,0 +1,11 @@
+{
+  "current_phase": "canon-building",
+  "active_chapter": "chapter-001",
+  "project_mode": "progression-fantasy",
+  "dependencies": [
+    "01-canon/truth-lock.md",
+    "01-canon/magic-system.md",
+    "01-canon/progression-tiers.md"
+  ],
+  "template": "02-outline/chapter-template.md"
+}

@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "book_id": "the-sovereign-ledger",
+  "book_goal": "Turn a bankrupt underdog guild into an economic and political empire using strategy, arbitrage, divine auctions, and guild management.",
+  "acts": [
+    {
+      "act_id": "act-1",
+      "title": "The Ledger Awakens",
+      "status": "complete",
+      "objective": "Rescue the guild from debt and establish its first avenues of leverage.",
+      "arcs": [
+        {
+          "arc_id": "arc-1",
+          "title": "Opening the Ledger",
+          "status": "complete",
+          "objective": "Create the first tactical and political wins for the guild.",
+          "beats": [
+            { "beat_id": "beat-1", "description": "Lys confronts the failing guild and identifies the first leverage points.", "status": "complete", "target_chapter": "chapter-001" },
+            { "beat_id": "beat-2", "description": "The guild secures its first charter and survives the first wave of predation.", "status": "complete", "target_chapter": "chapter-002" },
+            { "beat_id": "beat-3", "description": "A sabotage campaign tests the guild's reputation and resilience.", "status": "complete", "target_chapter": "chapter-003" }
+          ],
+          "open_obligations": ["Stabilize the guild's finances.", "Convert early leverage into durable market share."]
+        }
+      ]
+    },
+    {
+      "act_id": "act-2",
+      "title": "Market Dominion",
+      "status": "complete",
+      "objective": "Expand guild influence through logistics, auctions, and cartel disruption.",
+      "arcs": [
+        {
+          "arc_id": "arc-2",
+          "title": "Consolidation",
+          "status": "complete",
+          "objective": "Establish the guild as a capable commercial power.",
+          "beats": [
+            { "beat_id": "beat-4", "description": "The guild wins a new trade lane and secures a logistics base.", "status": "complete", "target_chapter": "chapter-004" },
+            { "beat_id": "beat-5", "description": "A dangerous credit line forces the guild to balance growth and risk.", "status": "complete", "target_chapter": "chapter-005" },
+            { "beat_id": "beat-6", "description": "A bold auction bid turns a district into a strategic prize.", "status": "complete", "target_chapter": "chapter-006" }
+          ],
+          "open_obligations": ["Secure a durable trade corridor.", "Convince allies and creditors that the guild is viable."]
+        }
+      ]
+    },
+    {
+      "act_id": "act-3",
+      "title": "Imperial Ledger",
+      "status": "complete",
+      "objective": "Seize monopoly rights and transform the guild into a kingdom-scale empire.",
+      "arcs": [
+        {
+          "arc_id": "arc-3",
+          "title": "Ascension",
+          "status": "complete",
+          "objective": "Convert strategic gains into a sovereign guild empire.",
+          "beats": [
+            { "beat_id": "beat-7", "description": "The guild fractures a cartel and redefines the market.", "status": "complete", "target_chapter": "chapter-007" },
+            { "beat_id": "beat-8", "description": "A blessing-license auction decides the guild's spiritual and political legitimacy.", "status": "complete", "target_chapter": "chapter-008" },
+            { "beat_id": "beat-9", "description": "The guild wins a critical charter and dungeon corridor.", "status": "complete", "target_chapter": "chapter-009" },
+            { "beat_id": "beat-10", "description": "The guild emerges as a new sovereign economic power.", "status": "complete", "target_chapter": "chapter-010" }
+          ],
+          "open_obligations": ["Sustain growth without collapsing under debt.", "Secure the guild's legitimacy as a true power center."]
+        }
+      ]
+    }
+  ],
+  "active_act_id": "act-3",
+  "active_arc_id": "arc-3",
+  "book_boundary": {
+    "status": "complete",
+    "decision": "close-book",
+    "criteria": ["The guild survives the cartel wars.", "The guild secures a durable monopoly core and the first outlines of a sovereign kingdom."],
+    "notes": "The story reaches a satisfying empire-building outcome in which the guild becomes a new sovereign power rather than a mere insurgent faction."
+  }
+}
