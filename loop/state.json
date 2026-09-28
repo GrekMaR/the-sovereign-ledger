@@ -1,6 +1,6 @@
 {
-  "current_phase": "canon-building",
-  "active_chapter": "chapter-001",
+  "current_phase": "continuity-check",
+  "active_chapter": "chapter-010",
   "project_mode": "progression-fantasy",
   "dependencies": [
     "01-canon/truth-lock.md",

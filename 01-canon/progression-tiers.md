@@ -1,31 +1,10 @@
-# Progression Tiers
+# Progression Tiers (Guild Standing, shown by the Charter Stone)
 
-## Tier 1 — Guild-Bound Squire
+| Tier | Name | Standing | Unlocks |
+|---|---|---|---|
+| I | Tin Seat | 0–999 | minor blessings, rights, tithes; Ledger-sight by touch |
+| II | Chartered House | 1,000–4,999 | district charters; Ledger-sight across a room |
+| III | Warden House | 5,000–19,999 | dungeon concessions; Ledger-sight reads strain |
+| IV | Sovereign House | 20,000+ | sovereign (lordship) charters; city-wide glimpse |
 
-- Access to basic contracts and low-tier guild privileges.
-- Limited ability to route magical energy through low-grade sigils.
-- Survival depends on discipline, logistics, and reputation.
-
-## Tier 2 — Chartered Broker
-
-- Can hold trade charters, negotiate tribute windows, and tap into underpriced supply channels.
-- Gains authority to issue guild credentials and secure small monopolies.
-- Major gains come from arbitrage and efficient execution.
-
-## Tier 3 — Warden of the Ledger
-
-- Controls territory-adjacent infrastructure, warehouse logistics, and guild security.
-- Gains leverage through reputation shocks, market manipulation, and strategic debt.
-- Can secure a more durable claim on a district, dungeon cluster, or trade lane.
-
-## Tier 4 — Sovereign Merchant Prince
-
-- Capable of contesting noble cartels in celestial auctions.
-- Gains standing to petition for charters, blessing rights, and resource monopolies.
-- Ability to consolidate money, logistics, and magical leverage into a dynasty-like guild.
-
-## TBD
-
-- Exact tier thresholds remain TBD.
-- Specific skill triggers and system notifications remain TBD.
-- Whether there is a realm or rank structure above the guild tier remains TBD.
+Book One track: Ch1 212 → Ch4 Tier II → Ch7 Tier III → Ch10 Tier IV. Every tier gain needs an understanding trigger, an action demonstration, and a narrative consequence.

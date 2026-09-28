@@ -8,7 +8,7 @@
 - **Default POV anchor:** `Lys Vey`
 - **Default POV and tense:** `close third person / past`
 - **Chapter target:** `2500–4500` words
-- **System output present:** `TBD`
+- **System output present:** `yes — Charter Stone blocks, max 3 per chapter, only on real change`
 - **Fantasy mode:** `guild-and-kingdom-building`
 - **Declared Gardner distance:** `3` *(closer implied emotion)*
 - **Style revision summary:** `TBD`
@@ -33,7 +33,7 @@
 - **Register:** `intimate`
 - **Sentence rhythm default:** `short action beats with controlled reflective turns`
 - **Adverb cap:** `TBD` or use default hollow-check thresholds.
-- **Filler phrase ban list:** `TBD`
+- **Filler phrase ban list:** `"a testament to", "little did he know", "in a world where", "couldn't help but", "let out a breath he didn't know he was holding", "the weight of"`
 
 ## 3a. Worldbuilding Revelation Mode
 
@@ -49,7 +49,7 @@
 
 ## 4. Interiority
 
-- **Emotion mode:** `TBD`
+- **Emotion mode:** `shown through body and action; named emotion only at turning points`
 - At decision points, use `TBD`.
 - Reasoning before a technique or tier push MUST be shown as `visible tactical reasoning before use`.
 - **Pattern-spark rule:** `TBD`
@@ -70,9 +70,9 @@
 
 ## 6a. Pacing / Serialisation Structure
 
-- **Chapter opening:** first `TBD` words MUST `TBD`.
-- Repetition permitted: `TBD`.
-- **Chapter close:** final `TBD` words MUST end with a strong unresolved consequence or decision.
+- **Chapter opening:** first `150` words MUST `open in motion (action, dialogue, or pressure) — no weather or backstory preamble`.
+- Repetition permitted: `Charter Stone readouts; auction calls; deliberate callbacks`.
+- **Chapter close:** final `200` words MUST land a decision, cost, revelation, or unanswered question. Mere stoppage is banned.
 
 ## 6b. Pacing Architecture Mode
 
@@ -114,3 +114,4 @@
 | Slow-scene anchor | `a strategic revelation or economic shift` |
 | Progression consequence requirement | `required` |
 | Name-load cap | `6 / 500 words` |
+

@@ -1,23 +1,29 @@
 # The Sovereign Ledger
 
-A progression-fantasy Story OS project focused on guild management, guild economics, and kingdom-building. The protagonist inherits a bankrupt underdog guild and uses modern strategy, arbitrage, and celestial trade auctions to turn it into a power that can compete with noble cartels and divine monopolies.
+*Book One — a guild-management, economics & kingdom-building progression fantasy (Story OS / Mimir project).*
 
-## Core premise
+In Vessant, the gods auction everything — rain, roads, dungeons, and the right to exist as a guild. Theo Marsh, a London distressed-debt consultant, dies and wakes as Lys Vey, drunk heir of the bankrupt Cinderwick Company, ten days before foreclosure — and the Charter Stone he is bound to will kill him if the guild falls. Armed with arbitrage, auction theory, supply-chain chokepoints, venture financing, and game theory, he takes on the Gilded Concord's noble cartel at the Firmament Exchange.
 
-Deities auction trade rights, land charters, dungeon monopolies, blessing licenses, and guild privileges. The protagonist enters the game late, armed with practical knowledge from corporate strategy, macroeconomics, supply-chain logistics, and game-theory marketing. Their objective is not simply to become powerful, but to build a guild that can survive the indignities of celestial capitalism and become an empire.
+## Chapters
 
-## Project status
+| # | Title | File |
+|---|---|---|
+| 1 | The Bankrupt Guild | `03-draft/chapter-001.md` |
+| 2 | The First Charter | `03-draft/chapter-002.md` |
+| 3 | The Price of Silence | `03-draft/chapter-003.md` |
+| 4 | The Lantern Market | `03-draft/chapter-004.md` |
+| 5 | A Debt with Teeth | `03-draft/chapter-005.md` |
+| 6 | Raising the Banner | `03-draft/chapter-006.md` |
+| 7 | The Cartel Break | `03-draft/chapter-007.md` |
+| 8 | The Blessing License | `03-draft/chapter-008.md` |
+| 9 | The Sovereign Ledger | `03-draft/chapter-009.md` |
+| 10 | A Realm in Brass | `03-draft/chapter-010.md` |
 
-- Mode: progression-fantasy
-- Working title: The Sovereign Ledger
-- Arc length: 10 chapters
-- Current phase: canon-building
+## Project layout (Story OS, progression-fantasy mode)
 
-## Story OS structure
-
-- `01-canon/` — discipline and lore constraints
-- `02-outline/` — chapter templates and outline scaffolding
-- `03-draft/` — 10 chapter drafts
-- `04-export/` — export and build outputs
-- `loop/` — workflow state, targets, and arc plan
-- `style/` — writing-style contract
+- `01-canon/` — truth lock, magic system, progression tiers, characters
+- `02-outline/series-bible.md` — world, cast, numbers, timeline, chapter beat plans (source of truth)
+- `02-outline/chapter-template.md` — Story OS chapter outline template
+- `03-draft/` — chapter prose
+- `loop/` — Story OS state, targets, arc plan, reports
+- `style/writing-style-guide.md` — writing-style contract

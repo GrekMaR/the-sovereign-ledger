@@ -1,34 +1,16 @@
 # Characters
 
-## Protagonist
+See `02-outline/series-bible.md` §3 for full notes.
 
-### Lys Vey
-- Role: founder and reluctant reformer of a bankrupt underdog guild
-- Starting condition: called a failure, burdened by debt, and excluded from elite trade circles
-- Strengths: analytic mind, commercial instincts, ruthless improvisation, patience under pressure
-- Core flaw: mistrusts sentiment and treats every betrayal as a spreadsheet problem
-- Destiny: turn a dying guild into a kingdom-scale commercial power
-
-## Supporting cast
-
-### Ser Aurel Dain
-- Veteran guildmaster turned noble competitor
-- Represents the old order of aristocratic privilege and short-term extraction
-
-### Mira Thorne
-- A former caravan captain and logistics prodigy
-- Becomes the protagonist's operational anchor and political ally
-
-### Brother Oren Vale
-- A temple steward with a network of divine contacts
-- Helps the protagonist navigate licensing, rituals, and spiritual politics
-
-### Veyra, the Lantern Syndicate
-- A mysterious guild cartel that controls many celestial trade channels
-- Their operations resemble a corporate predator in a medieval world
-
-## TBD
-
-- The exact relationship of each supporting character to the protagonist remains TBD.
-- Major antagonist personalities and faction structures are still TBD.
-- Some later guild heirs, debtors, and divine brokers remain TBD.
+- **Lys Vey** (he) — guildmaster, POV. Secretly Theo Marsh. Flaw: treats people as line items when afraid.
+- **Mira Thorne** (she) — caravan captain → Master of Roads. Scarred eyebrow, blunt.
+- **Pell** (he, 15) — orphan clerk → chief clerk.
+- **Hobb** (he) — Mourngate foreman, bad knee.
+- **Brother Oren Vale** (he) — steward of Sael's lower temple; auction-law expert; conscience.
+- **Veyra** (she) — mistress of the Lantern Syndicate; smoked-glass spectacles.
+- **Vault-Warden Sethra** (she) — Korrath's priestess.
+- **Garrow Finch** (he) — head of the Wharrow Brotherhood (dockers).
+- **Ser Aurel Dain** (he) — head of House Dain, Speaker of the Gilded Concord.
+- **Crell** (he) — Dain's factor.
+- **Lady Benedetta Oskel** (she) — head of House Oskel; first defector.
+- **Harlan Vey** — Lys's late father (died last winter).
